@@ -1,15 +1,8 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
-Linux training
+# About page
 
-### More Information
-
-Linux blogging
-
-### Contact me
-
-[davydovs@yandex.ru](mailto:davydovs@yandex.ru)
+This page tells you a little bit about me
